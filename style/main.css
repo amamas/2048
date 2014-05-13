@@ -226,7 +226,7 @@ hr {
 
 .tile-container {
   position: absolute;
-  z-index: 2; }
+  z-index: 3; }
 
 .tile, .tile .tile-inner {
   width: 107px;
