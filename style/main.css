@@ -2,8 +2,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #0B5E36;
-  color: #776e65;
+  background: #C5B3CA;
+  color: #332A2A;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -85,14 +85,14 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #bbada0;
+  background: #DDA2CF;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: #534E48;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -199,7 +199,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #bbada0;
+  background: #A187A5;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -386,7 +386,7 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background: #eee4da;
+    background: #DDA2CF;
     text-align: center;
     font-weight: bold;
     z-index: 10;
@@ -567,11 +567,11 @@ hr {
 
 .restart-button {
   display: inline-block;
-  background: #8f7a66;
+  background: #DDA2CF;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
-  color: #f9f6f2;
+  color: #534E48;
   height: 40px;
   line-height: 42px;
   cursor: pointer;
